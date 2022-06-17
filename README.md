@@ -4,7 +4,7 @@ This is an analysis I conducted as a part of my most recent apartment search. I 
 
 So I created a list of places I care about: EAC, the Trader Joe's on Court and Atlantic, the Borough Hall subway stop, and the game store where I play Magic: the Gathering sometimes. I then created a grid of long/lat coordinates and scored each one based on its walking distance from each, and aggregated the scores. When thrown into a tableau file, the result is a heat map that I could then use as a reference.
 
-While ultimately more of a fun exercise than anything useful (because 1. I already knew the area pretty well and 2. in NYC you don't really have the opportunity to have access to two equal-quality places that are just a few blocks apart, which is where this would be most useful), you could see where it would be useful. If you had never been to a place before, and you wanted to know the optimal place to live (not just the street, but the general neighborhood etc) based on distance from school, work, etc.
+While ultimately more of a fun exercise than anything useful (because 1. I already knew the area pretty well and 2. in NYC you don't really have the opportunity to have access to two equal-quality places that are just a few blocks apart), you could see where it would be useful. If you had never been to a place before, and you wanted to know the optimal place to live (not just the street, but the general neighborhood etc) based on distance from school, work, etc.
 
 I stopped because without a full license you can only make so many calls with the API i'm using, but there are a number of ways to augment this algorithm:
 1. distance from a line (not living too close to a main road)
